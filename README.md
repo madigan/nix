@@ -1,0 +1,2 @@
+# nix
+Small JavaScript Game
